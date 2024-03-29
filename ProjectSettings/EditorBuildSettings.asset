@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00.Scene/Title.unity
+    guid: f9555d5643156d64d99fa523cab29277
+  - enabled: 1
+    path: Assets/00.Scene/tutorialsScene.unity
+    guid: 911c08aa250cdae44af0a08e23d4ca44
+  - enabled: 1
+    path: Assets/00.Scene/01.Grave/Grave_00.unity
+    guid: cb55907fc67bc444dbf3ff34ab9d8a0f
+  - enabled: 1
+    path: Assets/00.Scene/01.Grave/Grave_01.unity
+    guid: 9733f5f4cd9b98b48a2869e3942e9bfc
+  - enabled: 1
+    path: Assets/00.Scene/01.Grave/Grave_02.unity
+    guid: 778f61a026f3e5e45a75eeb7b1102d6f
+  - enabled: 1
+    path: Assets/00.Scene/01.Grave/Grave_03.unity
+    guid: 31deee2db4a13c44db84a11a588ee18c
+  - enabled: 1
+    path: Assets/00.Scene/01.Grave/Grave_04.unity
+    guid: bc0625a921946eb4d88fcdedcba880b2
+  - enabled: 1
+    path: Assets/00.Scene/03.Forest/Forst_00.unity
+    guid: c0a7bd59409c2db4a83390b3ef9be054
+  - enabled: 1
+    path: Assets/00.Scene/03.Forest/Forst_01.unity
+    guid: 941bb4d1bbc5c0b42af778516c81eea8
+  - enabled: 1
+    path: Assets/00.Scene/03.Forest/Forst_02.unity
+    guid: f1479d32c0b35dd41916a129b4924757
+  - enabled: 1
+    path: Assets/00.Scene/03.Forest/Forst_03.unity
+    guid: ec22350c8f9f8d040a4b7fad631ebd8a
+  - enabled: 1
+    path: Assets/00.Scene/03.Forest/Forst_04.unity
+    guid: aa03d12db4a8a51499aa62edc42e614f
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_00.unity
+    guid: 81c119ff714ef51418ad41d2875e0c99
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_01.unity
+    guid: ca6c83f80411a4f4ab35d5b4381e18b8
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_02.unity
+    guid: dc0037c08e95c6e4d9bcae1fb09d7385
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_03.unity
+    guid: 6150a37c8352afd47add88307113cbe9
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_04.unity
+    guid: 5c4cf9f1e866d9e4ab06faf3ebdf73c8
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_05.unity
+    guid: d9daaabb3ccc0654294478e76ebb32ad
+  - enabled: 1
+    path: Assets/00.Scene/02.Church/Church_06.unity
+    guid: 67412e309634fcd4c9e2895f9807d532
+  m_configObjects: {}
